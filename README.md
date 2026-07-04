@@ -101,3 +101,5 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
+
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Successful open-source project: 40 psychology laws, 8,000+ users, interactive quiz, community-driven. MIT licensed.
